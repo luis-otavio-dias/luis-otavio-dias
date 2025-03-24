@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Olá! Meu nome é Luis Otávio e sou estudante de Sistemas de Informação, apaixonado por tecnologia e desenvolvimento de software. Atualmente, foco meus estudos em Python e Django, além de explorar bancos de dados relacionais (SQL) e conceitos de desenvolvimento backend.<br><br>🔹 Sempre buscando aprender e evoluir, gosto de resolver problemas e desenvolver aplicações que tenham impacto real.<br>🔹 Estou em busca da minha primeira oportunidade de estágio para aplicar meus conhecimentos e crescer profissionalmente.<br>
 
 
