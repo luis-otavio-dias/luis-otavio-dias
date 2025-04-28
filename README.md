@@ -36,8 +36,5 @@ Olá! Meu nome é Luis Otávio e sou estudante de Sistemas de Informação, apai
 ###
 
 #  GitHub Stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=luis-otavio-dias&theme=midnight-purple&hide_border=false)<br/>
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luis-otavio-dias&theme=python-dark)](https://git.io/streak-stats)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
