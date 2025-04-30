@@ -2,20 +2,11 @@
 Olá! Meu nome é Luis Otávio e sou estudante de Sistemas de Informação, apaixonado por tecnologia e desenvolvimento backend. Atualmente, foco meus estudos em Python e Django, além de explorar bancos de dados relacionais (SQL). Sempre buscando aprender e evoluir, gosto de resolver problemas e desenvolver aplicações que tenham impacto real. Estou em busca da minha primeira oportunidade de estágio para aplicar meus conhecimentos e crescer profissionalmente.
 
 
-# Socials:
+# Let's Connect:
+ - **LinkedIn:**
+   https://www.linkedin.com/in/luis-otavio-dias
 
-<br clear="both">
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/luis-otavio-dias" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="45" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:luisodsilva@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="45" alt="gmail logo"  />
-  </a>
-</div>
-
-###
+ - **E-mail:** luisodsilva@gmail.com
 
 
 #  Tech Stack:
@@ -36,5 +27,8 @@ Olá! Meu nome é Luis Otávio e sou estudante de Sistemas de Informação, apai
 ###
 
 #  GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luis-otavio-dias&theme=python-dark)](https://git.io/streak-stats)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=luis-otavio-dias&theme=github-dark-blue" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=luis-otavio-dias&theme=telegram" />
+</picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
