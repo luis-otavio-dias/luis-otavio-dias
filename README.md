@@ -28,7 +28,7 @@ Olá! Meu nome é Luis Otávio e sou estudante de Sistemas de Informação, apai
 
 #  GitHub Stats:
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=luis-otavio-dias&theme=github-dark-blue" />
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=luis-otavio-dias&theme=telegram" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=luis-otavio-dias&theme=github-dark-blue&mode=weekly" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=luis-otavio-dias&theme=telegram&mode=weekly" alt="GitHub Streak" />
 </picture>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
