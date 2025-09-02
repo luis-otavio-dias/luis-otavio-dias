@@ -1,5 +1,5 @@
 # About Me:
-Estudante de Sistemas de Informação apaixonado por tecnologia e desenvolvimento backend. Atualmente, foco meus estudos em Python e Django, além de explorar bancos de dados relacionais (SQL). Sempre buscando evoluir, gosto de desenvolver aplicações que tenham impacto real. Estou em busca da minha primeira oportunidade de estágio para aplicar meus conhecimentos e crescer profissionalmente.
+Estudante de Sistemas de Informação apaixonado por tecnologia e desenvolvimento FullStack. Atualmente, foco meus estudos em Django e React, além de explorar criação de containers Docker. Sempre buscando evoluir, gosto de desenvolver aplicações que tenham impacto real. Estou em busca da minha primeira oportunidade de estágio para aplicar meus conhecimentos e crescer profissionalmente.
 
 
 # Let's Connect:
