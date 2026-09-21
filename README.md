@@ -1,5 +1,6 @@
 # About Me:
-Estudante de Sistemas de Informação apaixonado por tecnologia e desenvolvimento FullStack. Atualmente, foco meus estudos em Django e React, além de explorar criação de containers Docker. Sempre buscando evoluir, gosto de desenvolver aplicações que tenham impacto real. Estou em busca da minha primeira oportunidade de estágio para aplicar meus conhecimentos e crescer profissionalmente.
+Sou estudante de Sistemas de Informação na UEMG e estagiário de desenvolvimento fullstack. Atualmente trabalho com Python, FastAPI, React e Docker na construção de aplicações web. Nos meus projetos, utilizo Django REST Framework, PostgreSQL e integração com IA para desenvolver soluções de processamento de documentos e extração de informações. Também atuo como instrutor de programação e robótica, ensinando Python, lógica de programação e Git. Busco aprofundar minha experiência em desenvolvimento de software, com atenção à organização do código, testes e resolução de problemas reais.
+
 
 
 # Let's Connect:
